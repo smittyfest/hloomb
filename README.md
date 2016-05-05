@@ -1,2 +1,2 @@
 # hloomb
-an ai application 
+ 
