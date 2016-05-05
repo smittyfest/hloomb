@@ -1,2 +1,2 @@
 # hloomb
-a django application 
+an ai application 
